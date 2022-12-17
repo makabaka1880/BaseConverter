@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: BaseConverter
+Version: 0.0.1
+Summary: A package to convert number to different bases
+Home-page: https://github.com/your_package/homepage/
+Author: makabaka1880
+Author-email: makabaka1880@outlook.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# BaseConverter
+
+This is a simple example of converting numbers to different bases.
+
+

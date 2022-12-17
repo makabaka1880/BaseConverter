@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+BaseConverter/Main.py
+BaseConverter/__init__.py
+BaseConverter.egg-info/PKG-INFO
+BaseConverter.egg-info/SOURCES.txt
+BaseConverter.egg-info/dependency_links.txt
+BaseConverter.egg-info/requires.txt
+BaseConverter.egg-info/top_level.txt
